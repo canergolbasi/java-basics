@@ -1,7 +1,6 @@
 /*
- * In this challenge, we test your knowledge of using if-else conditional statements to automate decision-making processes.
- * Given an integer, , perform the following conditional actions:
-
+In this challenge, we test your knowledge of using if-else conditional statements to automate decision-making processes.
+Given an integer, , perform the following conditional actions:
 If  is odd, print Weird
 If  is even and in the inclusive range of  to , print Not Weird
 If  is even and in the inclusive range of  to , print Weird
