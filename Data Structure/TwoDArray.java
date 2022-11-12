@@ -28,7 +28,7 @@ public class TwoDArray {
     		   arr[i][k]=in.nextInt();
     	   }
        }
-       
+              
        int sum_max=Integer.MIN_VALUE;
        
        for(int i=0;i<4;i++) {    	   
@@ -44,6 +44,7 @@ public class TwoDArray {
        }
        
        System.out.println(sum_max);
+       in.close();
 
         
     }
