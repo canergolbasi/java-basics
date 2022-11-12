@@ -11,7 +11,7 @@ Modify the code in the loop so that it saves each sequential value to its corres
  */
 import java.util.*;
 
-public class Solution {
+public class OneDArray {
 
     public static void main(String[] args) {
 	   
