@@ -4,8 +4,10 @@ The sum of an array is the total sum of its elements.
 An array's sum is negative if the total sum of its elements is negative.
 An array's sum is positive if the total sum of its elements is positive.
 Given an array of n integers, find and print its number of negative subarrays on a new line.
- Output Format
-
+Sample Input
+5
+1 -2 4 -5 1
+Output Format
 Print the number of subarrays of array having negative sums
  */
 
