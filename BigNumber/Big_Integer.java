@@ -14,7 +14,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class BigInteger {
+public class Big_Integer {
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
