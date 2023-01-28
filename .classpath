@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="Introduction"/>
 	<classpathentry kind="src" path="Strings"/>
 	<classpathentry kind="src" path="ObjectOrientedProgramming"/>
+	<classpathentry kind="src" path="ExceptionHandling"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
