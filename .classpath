@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="Data Structure"/>
 	<classpathentry kind="src" path="Introduction"/>
 	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="ObjectOrientedProgramming"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
