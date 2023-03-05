@@ -20,7 +20,7 @@ class Add{
     
 }
 
-public class varArgsSimple {
+public class VarArgsSimple {
 
     public static void main(String[] args) {
        try{
